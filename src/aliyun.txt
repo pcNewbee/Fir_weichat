@@ -1,0 +1,9 @@
+用户登录名称 pc_aliyunServer@1442657986723869.onaliyun.com
+登录密码 H(UBE445{z94@n6PtUNs3xli}XdyxOW8
+AccessKey ID LTAIMmA7nbzIUmQ2
+AccessKeySecret shtEzYgnrVTUbzf1PzHdOBN70ew7Hb
+远程连接密码：886688
+登录名：
+root   aliyunServer@pc
+cpc01   servertest@pc
+
